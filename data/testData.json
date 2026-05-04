@@ -1,0 +1,16 @@
+{
+  "ui": {
+    "bookToSearch": "Learning JavaScript Design Patterns"
+  },
+  "api": {
+    "newUser": {
+      "name": "morpheus",
+      "job": "leader"
+    },
+    "updateUser": {
+      "name": "morpheus updated",
+      "job": "zion resident"
+    },
+    "existingUserId": 2
+  }
+}
