@@ -120,13 +120,13 @@ This will start a local server and automatically open the interactive test repor
 *(Below is the visual proof of 100% successful test execution for this assignment)*
 
 **Main Test Executions Report Overview:**
-![Test Report](./test_report.png)
+![Test Report](screenshots/test_report.png)
 
 **Detailed API & UI Test Executions:**
-![API Test - Create User](./api_test_create.png)
-![API Test - Get User](./api_test_get.png)
-![API Test - Update User](./api_test_update.png)
-![UI Test - Full Flow](./ui_test_flow.png)
+![API Test - Create User](screenshots/api_test_create.png)
+![API Test - Get User](screenshots/api_test_get.png)
+![API Test - Update User](screenshots/api_test_update.png)
+![UI Test - Full Flow](screenshots/ui_test_flow.png)
 
 ---
 
